@@ -1,10 +1,13 @@
 {
   "name": "shittysuckygamesinc",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "build": "gridsome build"
+    "compress": "gzipper c -e jpeg,png,ico --brotli ./dist && gzipper c -e jpeg,png,ico,br ./dist",
+    "build": "gridsome build && yarn compress",
+    "deploy": "docker build -t shittysuckygamesinc:$npm_package_version -f Dockerfile . && docker save shittysuckygamesinc:$npm_package_version | bzip2 | ssh root@meldanor.me 'bunzip2 | docker load'"
   },
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.2.0",
@@ -15,6 +18,7 @@
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "autoprefixer": "^9",
+    "gzipper": "^4.4.0",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
