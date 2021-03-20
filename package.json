@@ -1,0 +1,21 @@
+{
+  "name": "shittysuckygamesinc",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.2.0",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-tailwindcss": "^4.1.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.0.3",
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  }
+}

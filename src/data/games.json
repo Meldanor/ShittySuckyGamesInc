@@ -1,0 +1,1153 @@
+[
+    {
+      "id": "1",
+      "name": "Parry Hotter 64 and the Princess of Another Castle",
+      "type": "baseGame",
+      "addonFor": null,
+      "score": 50,
+      "mainGenre": "Geschicklichkeit",
+      "subGenre": null,
+      "mainTheme": "Zauberer",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 2,
+        "month": 5,
+        "year": 1976
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 3,
+        "atmosphere": 5,
+        "spielTiefe": 5,
+        "coreGamer": 7
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Epix Ware",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 12,
+      "targetGroup": "Alle",
+      "image": "/images/games/1.png",
+      "text": "Du bist ein Zauderer, Parry. Live from the Wandschrank in irgendwo, Ingland. You comes to the Universität Pogwarz, but Herr Mine ist enführt by the fiese Zauberer, dessen Name nicht geteilt werden darf, Unterstützt Joystick und 2KB RAM."
+    },
+    {
+      "id": "2",
+      "name": "Der Herr Range: Die Versehrten",
+      "type": "baseGame",
+      "addonFor": null,
+      "score": 43,
+      "mainGenre": "Geschicklichkeit",
+      "subGenre": null,
+      "mainTheme": "Zauberer",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 3,
+        "month": 9,
+        "year": 1976
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 3,
+        "atmosphere": 5,
+        "spielTiefe": 5,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 25,
+        "graphics": 25,
+        "sound": 25,
+        "technic": 25
+      },
+      "publisher": "Epix Ware",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 0,
+      "targetGroup": "Alle",
+      "image": "/images/games/2.png",
+      "text": "Im Dorf der Haarigen Gnome ist wieder mal was los. Dildo Deutlin hat Geburtstag und ein alter Mann kommt vorbei. Es gibt Reibekuchen und einen Spannungsbogen. Dann: Ein Ring. Aber Didlo will noch nicht heiraten. Er will den Ring verbrennen. Doch die alte Sau Ron würde den Ring gerne beim Pfandleiher versetzen, um sich ein paar SChuhe für die haarigen Grindlatschen zu kaufen. Doch dann passiert das Unglaubliche..."
+    },
+    {
+      "id": "3",
+      "name": "Leisure Suit Tobi in the Land of the Darmstadt",
+      "type": "baseGame",
+      "addonFor": null,
+      "score": 60,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Monster",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 2,
+        "month": 4,
+        "year": 1977
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Epix Ware",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 18,
+      "targetGroup": "Erwachsene",
+      "image": "/images/games/3.png",
+      "text": "Keine :("
+    },
+    {
+      "id": "4",
+      "name": "Leisure Suit Tobi: Deep Dirty Dungeons of Darmstadt",
+      "type": "addon",
+      "addonFor": 3,
+      "score": 64,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Monster",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 2,
+        "month": 1,
+        "year": 1977
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Epix Ware",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 18,
+      "targetGroup": "Erwachsene",
+      "image": "/images/games/4.png",
+      "text": "Keine :("
+    },
+    {
+      "id": "5",
+      "name": "Leisure Suit Tobi: Casual Cashgrab Content",
+      "type": "addon",
+      "addonFor": 3,
+      "score": 71,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Monster",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 2,
+        "month": 6,
+        "year": 1977
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Epix Ware",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 18,
+      "targetGroup": "Erwachsene",
+      "image": "/images/games/5.png",
+      "text": "Keine :("
+    },
+    {
+      "id": "6",
+      "name": "Leisure Suit Tobi leckt Lack in Luxemburg",
+      "type": "baseGame",
+      "addonFor": null,
+      "score": 73,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Pilze",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 1,
+        "month": 8,
+        "year": 1977
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "E-Mix",
+      "engine": "ULF-FX",
+      "size": "B",
+      "ageRating": 18,
+      "targetGroup": "Erwachsene",
+      "image": "/images/games/6.png",
+      "text": "Unser Antiheld Tobias F. stolpert unversehens in sein zweites, speck-takuläres Abenteuer. Nachdem er in Darmstadt seine erste Liebe gefunden hat, wird er kuzerhand vor die Tür gesetzt. Nun zieht es ihn nach Luxemburg, dem Land der schönen Flure und Steuervergünstigungen. Doch auf dem Weg spürt er die dunken Mächte in seinem Hosenraum. Peter Pilz, ein neues, interaktives Gameplay-Feature, ist der zweite spielbare Charackter in einer verzwickten Liebesgeschichte mit Tobi, seiner Hand ... Peter! ;)"
+    },
+    {
+      "id": "7",
+      "name": "Peter Pilz pulsiert am Pullermann",
+      "type": "baseGame",
+      "addonFor": null,
+      "score": 71,
+      "mainGenre": "Denkspiel",
+      "subGenre": null,
+      "mainTheme": "Pilze",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 1,
+        "month": 10,
+        "year": 1977
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 6,
+      "targetGroup": "Alle",
+      "image": "/images/games/7.png",
+      "text": "Mach ihn auf, den Hosenschlitz, und erlebe fantastische Abenteuer mit Peter Pilz, dem fröhlichen Pimmelschwamm. Lustige Rätsel, heitere Anekdoten und enue Sichtweisen auf deinen Freund, die Geschlechtskrankheit."
+    },
+    {
+      "id": "8",
+      "name": "Luxemburg Tobi: Lack the Police",
+      "type": "addon",
+      "addonFor": 6,
+      "score": 74,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Pilze",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 4,
+        "month": 10,
+        "year": 1977
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "engine": "Keine",
+      "size": "B",
+      "ageRating": 12,
+      "targetGroup": "Alle",
+      "image": "/images/games/8.png",
+      "text": "Keins :("
+    },
+    {
+      "id": "9",
+      "name": "Leisure Suit Tobi 3: Bukarest Backdoor Bingo",
+      "type": "successor",
+      "addonFor": 6,
+      "score": 74,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Pilze",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 3,
+        "month": 2,
+        "year": 1978
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "E-Mix",
+      "engine": "ULF-FX+",
+      "size": "B",
+      "ageRating": 16,
+      "targetGroup": "Erwachsene",
+      "image": "/images/games/9.png",
+      "text": "Tobi ist wieder da. Nachdem er in seinem letzten Abenteuer aus Luxemburg evakuiert wurde, muss er nun nach Bukarest flöchten. Dort bemuttert ihn die bimsfreudige Busenfreundin Bertha mit einem schönen Glas Milch frisch ab Quelle. Doch irgend etwas scheint nicht ganz koscher...schnell bemerkt Tobi, dass in Berthas Backdoor illegale Bingo-Sessions gespielt werden. Nun muss er durchgreifen..."
+    },
+    {
+      "id": "10",
+      "name": "Peter Pilz 2: The Fappening",
+      "type": "successor",
+      "addonFor": 7,
+      "score": 76,
+      "mainGenre": "Denkspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Pilze",
+      "subTheme": null,
+      "releaseDate": {
+        "week": 1,
+        "month": 5,
+        "year": 1978
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "engine": "ULF-THINX+",
+      "size": "B",
+      "ageRating": 6,
+      "targetGroup": "Alle",
+      "image": "/images/games/10.png",
+      "text": "Zehn Jahre sind vergangen und peter Pilz hat Pauline geheiratet, einen Tripper aus der Nachbarschaft. Nun ist es an der Zeit für Nachwuchs, aber wie funktioniert das eigentlich? Tauche ein in die lustige Welt der Fortpflanzung mit Lappenbrand und Hodenherpes. Ein Spaß für die ganze Familie!"
+    },
+    {
+      "id": "11",
+      "name": "Bukarest Tobi: Bedroom Banger of Buxtehude",
+      "type": "addon",
+      "addonFor": 9,
+      "score": 78,
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Pilze",
+      "subTheme": "Monster",
+      "releaseDate": {
+        "week": 1,
+        "month": 6,
+        "year": 1978
+      },
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "E-Mix",
+      "engine": "ULF-FX+",
+      "size": "B",
+      "ageRating": 16,
+      "targetGroup": "Erwachsene",
+      "image": "/images/games/11.png",
+      "text": "Begierde, Berufung, Banger-Style. Tobi ist wieder da und packt seinen Freizeit-Anzug aus. In dieser freshen und familienfreundlichen Erweiterung besucht er bimsfreudige Beischlafhilfen und offeriert ihnen aus reiner Herzensgüte seinen Lachs."
+    },
+    {
+      "id": "12",
+      "name": "Skulltima I: Cracks in Time",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "B",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Alle",
+      "text": "Lord Kritisch ruft Dich zu seinen Diensten, oh Abenteurer. Unheil formeirt sich im fernen Fritannien und nur Du kannst alle retten. Du findest Dich in der neuen Welt Sosaria als Lappen wieder. Du kannst nichts, Du bist nichts und niemand kennt Dich. Doch schon bald wirst Du Schwerter schwingend zahlreiche Sammelquests für die lauffaulen Einwohner Fritanniens absolviereen. Denn nur 5 tote Ratten sorgen für den lang ersehnten Weltenfrieden.",
+      "engine": "CD Project ULF",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 4,
+        "spielTiefe": 4,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Sunwork",
+      "releaseDate": {
+        "week": 2,
+        "month": 8,
+        "year": 1978
+      },
+      "score": 83,
+      "ageRating": 0,
+      "image": "/images/games/12.png"
+    },
+    {
+      "id": "13",
+      "name": "Peter Pilz fappuliert den fröhlichen Ferkelfrosch",
+      "type": "successor",
+      "addonFor": 10,
+      "size": "B",
+      "mainGenre": "Denkspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Pilz",
+      "subTheme": null,
+      "targetGroup": "Alle",
+      "text": "In einer dramatischen Entwicklung hat Pauline Peter betrogen. Nun sucht Peter Rat, wie er mit seinem neuen Drama umgehen soll. Er hat sich doch Kinder gewünscht mit der Liebe seines Lebens - und nun erwischt er sie aufgespießt auf der lüsternen Lanze vom lästigen Lutz. Sein Freund Fillip, der Fröhliche Ferkelfrosch, weiß vielleicht Rat. Langsam kommen die beiden sich näher.",
+      "engine": "ULF-THINX+",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 4,
+        "month": 10,
+        "year": 1978
+      },
+      "score": 79,
+      "ageRating": 12,
+      "image": "/images/games/13.png"
+    },
+    {
+      "id": "14",
+      "name": "Skulltima I: Cracks of Time - Heroine of Past",
+      "type": "addon",
+      "addonFor": 11,
+      "size": "B",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Alle",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 1,
+        "month": 1,
+        "year": 1979
+      },
+      "score": 83,
+      "ageRating": 0,
+      "image": "/images/games/14.png"
+    },
+    {
+      "id": "15",
+      "name": "Tobi Tanzt: Schwansensee",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "B",
+      "mainGenre": "Geschicklichkeit",
+      "subGenre": null,
+      "mainTheme": "Tanzen",
+      "subTheme": null,
+      "targetGroup": "Alle",
+      "text": "Tobi ist nicht nur Charmeur, Provokateur und Nackt-Modeleur. Wer Ihn kennt, der weiß, dass er ab und zu sämtliche Tanzbeine seines Körpers in Rotation versetzen kann. Menschen aller Geschlechter befeuchten sich Lippen und Höschen, wenn der anatomisch astronomische Aufriss-Arnold mit seinen Haxen sämtliche Tanzflächen des Landes zum Erbeben bringt.",
+      "engine": "ULF sKILLZ",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 6,
+        "atmosphere": 6,
+        "spielTiefe": 6,
+        "coreGamer": 7
+      },
+      "workPriorities": {
+        "gameplay": 30,
+        "graphics": 20,
+        "sound": 30,
+        "technic": 20
+      },
+      "publisher": "Teitu",
+      "releaseDate": {
+        "week": 3,
+        "month": 4,
+        "year": 1979
+      },
+      "score": 76,
+      "ageRating": 12,
+      "image": "/images/games/15.png"
+    },
+    {
+      "id": "16",
+      "name": "Skulltima I: Cracks of Time - The Future's Future",
+      "type": "addon",
+      "addonFor": 11,
+      "size": "B",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Alle",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 2,
+        "month": 7,
+        "year": 1979
+      },
+      "score": 83,
+      "ageRating": 0,
+      "image": "/images/games/16.png"
+    },
+    {
+      "id": "17",
+      "name": "Peter Pilz 3: Pinkelparty in Peine",
+      "type": "successor",
+      "addonFor": 12,
+      "size": "B",
+      "mainGenre": "Denkspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Pilze",
+      "subTheme": "Monster",
+      "targetGroup": "Alle",
+      "text": "Flip, der Fröhliche Ferkelfrosch lädt Peter Pilz spontan zu einer Lustreise im Peiner Landkreis ein. Was beide nicht wissen: Peine ist die Hochpurg des Öffentlichen Urinats. Täglich treffen sich Peiner Passanten zum gemeinsamen absolvierten Abstrullern. Doch, oh weh - Peter hat ein Problem. Nierensteine! Erlebe die bunte Welt von Norbert Niere und seinen süßen Steinchen, mit denen Du gemeinsam Dame spielen und viele Abenteuer erleben kannst! Happy Pipi.",
+      "engine": "ULF-THINX++",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 5,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 35,
+        "graphics": 20,
+        "sound": 20,
+        "technic": 25
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 1,
+        "month": 11,
+        "year": 1979
+      },
+      "score": 81,
+      "ageRating": 6,
+      "image": "/images/games/17.png"
+    },
+    {
+      "id": "18",
+      "name": "Tobi Tanzt: Nussknacker",
+      "type": "successor",
+      "addonFor": 14,
+      "size": "B",
+      "mainGenre": "Geschicklichkeit",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Tanzen",
+      "subTheme": "Monster",
+      "targetGroup": "Alle",
+      "text": "Come, my Tobi, and dance the night away.\n\n In seinem neuen Fernsehgarten-Gossenhauer fegt Tobi sämtliche Genregrenzen hinweg und massakriert seine Tanzpartner durch furiosen Beckenschwung und hyperaktive Breakdance-Einlagen. Classic meets Rap meets Metal meets Tobi. Eine planetenbrechende Offenbarung, die selbst Jesus wiederauferstehen lässt (als kostenpflichtiges DLC)",
+      "engine": "ULF sKILLZ",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 5,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 30,
+        "graphics": 25,
+        "sound": 25,
+        "technic": 20
+      },
+      "publisher": "Teitu",
+      "releaseDate": {
+        "week": 3,
+        "month": 1,
+        "year": 1980
+      },
+      "score": 80,
+      "ageRating": 12,
+      "image": "/images/games/18.png"
+    },
+    {
+      "id": "19",
+      "name": "Peter Pilz 3: Golden Shower über Niedersachsen",
+      "type": "addon",
+      "addonFor": 16,
+      "size": "B",
+      "mainGenre": "Denkspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Pilze",
+      "subTheme": "Horror",
+      "targetGroup": "Alle",
+      "text": "Flip, der Fröhliche Ferkelfrosch lädt Peter Pilz spontan zu einer Lustreise im Peiner Landkreis ein. Was beide nicht wissen: Peine ist die Hochpurg des Öffentlichen Urinats. Täglich treffen sich Peiner Passanten zum gemeinsamen absolvierten Abstrullern. Doch, oh weh - Peter hat ein Problem. Nierensteine! Erlebe die bunte Welt von Norbert Niere und seinen süßen Steinchen, mit denen Du gemeinsam Dame spielen und viele Abenteuer erleben kannst! Happy Pipi.",
+      "engine": "ULF-THINX++",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 5,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 50,
+        "graphics": 10,
+        "sound": 10,
+        "technic": 30
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 2,
+        "month": 4,
+        "year": 1980
+      },
+      "score": 77,
+      "ageRating": 6,
+      "image": "/images/games/19.png"
+    },
+    {
+      "id": "20",
+      "name": "Peter Pilz 3: Golden Shower über Niedersachsen",
+      "type": "addon",
+      "addonFor": 16,
+      "size": "B",
+      "mainGenre": "Denkspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Pilze",
+      "subTheme": "Horror",
+      "targetGroup": "Alle",
+      "text": "Flip, der Fröhliche Ferkelfrosch lädt Peter Pilz spontan zu einer Lustreise im Peiner Landkreis ein. Was beide nicht wissen: Peine ist die Hochpurg des Öffentlichen Urinats. Täglich treffen sich Peiner Passanten zum gemeinsamen absolvierten Abstrullern. Doch, oh weh - Peter hat ein Problem. Nierensteine! Erlebe die bunte Welt von Norbert Niere und seinen süßen Steinchen, mit denen Du gemeinsam Dame spielen und viele Abenteuer erleben kannst! Happy Pipi.",
+      "engine": "ULF-THINX++",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 5,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 50,
+        "graphics": 10,
+        "sound": 10,
+        "technic": 30
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 2,
+        "month": 4,
+        "year": 1980
+      },
+      "score": 77,
+      "ageRating": 6,
+      "image": "/images/games/20.png"
+    },
+    {
+      "id": "21",
+      "name": "Skulltima II: Cracked Dimensions",
+      "type": "successor",
+      "addonFor": 11,
+      "size": "B",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Alle",
+      "text": "Zehn Jahre nach Deinem Abenteuer in Fritannien klingelt das Telefon. Es ist Lord Kritisch, aber wie kann das möglich sein? Fritannien verfügt über kein Telefonnetz. Eine statisch verzerrte Stimme erklärt die verzweifelt, dass das Königreich Sosaria durch den bösen Zauberer Mondän aufgebrochen wurde. Nun gibt es viele Fritanniens, aufgeteilt in viele Dimensionen. Doch es braucht einen Helden, um alles wieder zu vereinen: Dich!",
+      "engine": "CD Project ULF.NEXT",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 3,
+        "atmosphere": 3,
+        "spielTiefe": 3,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "E-Mix",
+      "releaseDate": {
+        "week": 4,
+        "month": 10,
+        "year": 1980
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/21.png"
+    },
+    {
+      "id": "22",
+      "name": "Parry Hotter and the Sone (ABGEBROCHEN)",
+      "type": "successor",
+      "addonFor": 1,
+      "size": "B",
+      "mainGenre": "Denkspiel",
+      "subGenre": "Geschicklichkeit",
+      "mainTheme": "Steinzeit",
+      "subTheme": "Steine",
+      "targetGroup": "Teenager",
+      "text": "Parry Hotter ist immer noch mega lame und wohnt im Wandschrank vn den Dorschens. Das einzige, was in einem Leben rund läuft, ist sein Brillengestell. Sein Freund Wiesel ist ein Frettchen und sieht auch so aus, doch er ist ok. Wiesel ist aber eifersüchtig, denn Parry hat seinen neuen besten Freund. Silverster Stone, den bodybuildenen Berseker aus Berlin (Ost). Herr Mine lernt underdessen etwas. Wie immer. Das kann sie gut. Viel Spaß mit dem Spiel. Es ist sicher toll.",
+      "engine": "ULF deepTHINX",
+      "designPriorities": {
+        "gameplay": 3,
+        "story": 5,
+        "atmosphere": 7,
+        "spielTiefe": 6,
+        "coreGamer": 7
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 15,
+        "sound": 15,
+        "technic": 30
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 2,
+        "month": 4,
+        "year": 1981
+      },
+      "score": 92,
+      "ageRating": 12,
+      "image": "/images/games/22.png"
+    },
+    {
+      "id": "23",
+      "name": "Erik Bricht Aus (NIE RELEASED)",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "B",
+      "mainGenre": "Strategie",
+      "subGenre": "Denkspiel",
+      "mainTheme": "Gefängnis",
+      "subTheme": "Buddeln",
+      "targetGroup": "Teenager",
+      "text": "Oh nein! Trickbetrüger Erik und Max aus dem Internet machen immer auf freundliche Onkel, ziehen aber ihre Zuschauer (Kinder) mit Dontios ab. Lassen reinhageln, sich pondern und haben Verträge mit allem, was es gibt. Widerlich. Zum Segen der Gesellschaft sitzen sie nun hinter schweidschen Gardinen - doch obacht! Sie planen ihren Ausbruch! Mit Witz, Geschickt und Strategie schaffen es die beiden charmanten Scharlatane aus Chemnitz, sich den Weg nach Draußen zu bahnen. Mit deiner Hilfe!",
+      "engine": "strategULF",
+      "designPriorities": {
+        "gameplay": 3,
+        "story": 6,
+        "atmosphere": 6,
+        "spielTiefe": 4,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 15,
+        "sound": 15,
+        "technic": 30
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 2,
+        "month": 4,
+        "year": 1981
+      },
+      "score": 92,
+      "ageRating": 12,
+      "image": "/images/games/23.png"
+    },
+    {
+      "id": "24",
+      "name": "Skulltima II: Cracked Dimensions - The Multiverse",
+      "type": "addon",
+      "addonFor": 20,
+      "size": "B",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Alle",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF.NEXT",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 3,
+        "atmosphere": 3,
+        "spielTiefe": 3,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "E-Mix",
+      "releaseDate": {
+        "week": 1,
+        "month": 7,
+        "year": 1981
+      },
+      "score": 92,
+      "ageRating": 18,
+      "image": "/images/games/24.png"
+    },
+    {
+      "id": "25",
+      "name": "The Snitcher: Die Milde Magd",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "B+",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Action",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Kinder",
+      "text": "Gerhard, ein Junge aus armen Verhältnissen, wurde gegen seinen Willen zum Snitcher ausgebildet. Übermenschliche Stärke, Reflexe und ein außerordentliches Sehvermögen machen ihn zu seiner perfekten Kampfmaschine. Doch die Gilde der Schnitcher ist nicht gerne gesehen in den Länden von Dovigrad, die dreckigen, veramrten Menschen halten sie für Monster. Nicht so Marianne, die mitteralterische Magd aus Milfgard. Sie findet das ungestüme, rauhe Wesehn des Flexers auf eine beinahe schon ordinäre Art anziehend. Miau!",
+      "engine": "CD Project ULF.NEXT",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 2,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "Infocorp",
+      "releaseDate": {
+        "week": 4,
+        "month": 10,
+        "year": 1981
+      },
+      "score": 97,
+      "ageRating": 12,
+      "image": "/images/games/25.png"
+    },
+    {
+      "id": "26",
+      "name": "Parry Hotter and another Stone",
+      "type": "addon",
+      "addonFor": 21,
+      "size": "B",
+      "mainGenre": "Denkspiel",
+      "subGenre": "Geschicklichkeit",
+      "mainTheme": "Steinzeit",
+      "subTheme": "Steine",
+      "targetGroup": "Teenager",
+      "text": "Parry Hotter ist immer noch mega lame und wohnt im Wandschrank vn den Dorschens. Das einzige, was in einem Leben rund läuft, ist sein Brillengestell. Sein Freund Wiesel ist ein Frettchen und sieht auch so aus, doch er ist ok. Wiesel ist aber eifersüchtig, denn Parry hat seinen neuen besten Freund. Silverster Stone, den bodybuildenen Berseker aus Berlin (Ost). Herr Mine lernt underdessen etwas. Wie immer. Das kann sie gut. Viel Spaß mit dem Spiel. Es ist sicher toll.",
+      "engine": "ULF deepTHINX",
+      "designPriorities": {
+        "gameplay": 3,
+        "story": 5,
+        "atmosphere": 7,
+        "spielTiefe": 6,
+        "coreGamer": 7
+      },
+      "workPriorities": {
+        "gameplay": 50,
+        "graphics": 10,
+        "sound": 10,
+        "technic": 30
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 3,
+        "month": 11,
+        "year": 1981
+      },
+      "score": 87,
+      "ageRating": 12,
+      "image": "/images/games/26.png"
+    },
+    {
+      "id": "27",
+      "name": "Don Kai Kong",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "B+",
+      "mainGenre": "Platformer",
+      "subGenre": "Geschicklichkeit",
+      "mainTheme": "Klemner",
+      "subTheme": "Affen",
+      "targetGroup": "Alle",
+      "text": "Der Mafia-Don K. Kong hat die liebliche Prinzessin Platsch entführt. Aber das ist okay. Martin und Luther sind zwei Gebrüder, des rohrverlegenden Handwerks befleißigt. Beide haben natürlich nix mit Prinzessinen zu tun, denn sie machen ja in Sanitär.\n Eines Tages begab es sich, dass im Haus Kong das Bidet explodierte. Ein sanfter, brauner Film legte sich über mindestens 10 Level, die nun von den mutigen Brüdern erkundet werden müssen. Steile Thesen, geile Affen, harte Rohre - und ein Gameplay, bei dem dir das Blech wegfliegt! Jetzt auch in 16 Farben!!",
+      "engine": "Jump'n'ULF",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 6,
+        "atmosphere": 7,
+        "spielTiefe": 6,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 15,
+        "sound": 15,
+        "technic": 30
+      },
+      "publisher": "Sunwork",
+      "releaseDate": {
+        "week": 1,
+        "month": 4,
+        "year": 1982
+      },
+      "score": 85,
+      "ageRating": 6,
+      "image": "/images/games/27.png"
+    },
+    {
+      "id": "28",
+      "name": "Tobi Tanzt: Zauberflöte",
+      "type": "successor",
+      "addonFor": 17,
+      "size": "B+",
+      "mainGenre": "Geschicklichkeit",
+      "subGenre": "Action",
+      "mainTheme": "Tanzen",
+      "subTheme": "Singen",
+      "targetGroup": "Teenager",
+      "text": "Come, Tobi, come, Tobi Tobi, come.\n Die laxe Legende der lustvollen Siebziger Jahre ist wieder da. Style-Ikone Tobi lässt wieder die Hüften kreisen und katapultiert Groupies aller Geschlechter in seine Umlaufbahn. Im dritten Teil dieses fantastischen Tanzabenteuers bezirzst Tobi seine Mit-sagenwirmal-Menschen mit den aktuellsten Brunftsounds affentittengeiler Clubdiskotheken. Komm und schwing das Tanzbein mit dieser kollosall korpulierenden Kampfmaschine des Dancefloors.",
+      "engine": "ULF sKILLZ VGA",
+      "designPriorities": {
+        "gameplay": 2,
+        "story": 7,
+        "atmosphere": 7,
+        "spielTiefe": 7,
+        "coreGamer": 7
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 10,
+        "sound": 10,
+        "technic": 40
+      },
+      "publisher": "Teitu",
+      "releaseDate": {
+        "week": 1,
+        "month": 8,
+        "year": 1982
+      },
+      "score": 93,
+      "ageRating": 6,
+      "image": "/images/games/28.png"
+    },
+    {
+      "id": "29",
+      "name": "The Snitcher: Sturm auf Milfgard ",
+      "type": "addon",
+      "addonFor": 24,
+      "size": "B+",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Action",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Kinder",
+      "text": "Keiner",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 2,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "Infocorp",
+      "releaseDate": {
+        "week": 4,
+        "month": 9,
+        "year": 1982
+      },
+      "score": 91,
+      "ageRating": 12,
+      "image": "/images/games/29.png"
+    },
+    {
+      "id": "30",
+      "name": "Erik Bricht Aus",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "B+",
+      "mainGenre": "Strategie",
+      "subGenre": "Denkspiel",
+      "mainTheme": "Gefängnis",
+      "subTheme": "Buddeln",
+      "targetGroup": "Teenager",
+      "text": "Oh nein! Trickbetrüger Erik und Max aus dem Internet machen immer auf freundliche Onkel, ziehen aber ihre Zuschauer (Kinder) mit Dontios ab. Lassen reinhageln, sich pondern und haben Verträge mit allem, was es gibt. Widerlich. Zum Segen der Gesellschaft sitzen sie nun hinter schweidschen Gardinen - doch obacht! Sie planen ihren Ausbruch! Mit Witz, Geschickt und Strategie schaffen es die beiden charmanten Scharlatane aus Chemnitz, sich den Weg nach Draußen zu bahnen. Mit deiner Hilfe!",
+      "engine": "strategULF+",
+      "designPriorities": {
+        "gameplay": 2,
+        "story": 7,
+        "atmosphere": 7,
+        "spielTiefe": 3,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 10,
+        "sound": 10,
+        "technic": 40
+      },
+      "publisher": "Ziera",
+      "releaseDate": {
+        "week": 4,
+        "month": 2,
+        "year": 1983
+      },
+      "score": 84,
+      "ageRating": 16,
+      "image": "/images/games/30.png"
+    },
+    {
+      "id": "31",
+      "name": "Skulltima II: Breached Reality (ABGEBROCHEN)",
+      "type": "successor",
+      "addonFor": 20,
+      "size": "B+",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Erwachsene",
+      "text": "(Erik war zu Müde für Kreativität, dieser faule Lump!)",
+      "engine": "CD Project ULF.NEXT VGA",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 3,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "E-Mix",
+      "releaseDate": {
+        "week": 4,
+        "month": 7,
+        "year": 1983
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/31.png"
+    },
+    {
+      "id": "32",
+      "name": "Skulltima II: Breached Reality",
+      "type": "successor",
+      "addonFor": 20,
+      "size": "B+",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Erwachsene",
+      "text": "(Erik war zu Müde für Kreativität, dieser faule Lump!)",
+      "engine": "CD Project ULF.NEXT SVGA",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 3,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "E-Mix",
+      "releaseDate": {
+        "week": 4,
+        "month": 12,
+        "year": 1983
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/32.png"
+    }
+  ]
