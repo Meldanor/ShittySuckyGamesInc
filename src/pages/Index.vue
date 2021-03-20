@@ -2,11 +2,10 @@
   <Layout>
     <div class="mx-auto w-10/12 ">
       <div class="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-4" v-for="obj in gamesByYear" :key="obj.key" >
-        <div class="text-center w-full col-span-full text-4xl text-yellow-500 font-extrabold tracking-widest">
+        <div class="text-center w-full col-span-full text-4xl text-yellow-500 font-extrabold tracking-">
           <h2 class="border-dotted border-purple-900 border-t-4 border-b-4 mb-5" :id="obj.key">
-            {{obj.key}}
-          </h2>
-          
+            <a :href="'#' + obj.key">{{obj.key}}</a>
+          </h2>          
         </div>
         <game v-for="game in obj.items" :key="game.id" :game=game />
       </div>
