@@ -17,7 +17,7 @@
       </div>
       <span class="mr-1 p-1 px-2 font-bold md:border-l border-gray-400">{{releaseDate}}</span>
     </div>
-    <img class="w-full max-h-64 object-contain" :src="game.image" alt="" />
+    <img class="w-full max-h-64 object-contain" loading="lazy" :src="game.image" alt="" />
     <p class="px-1 pt-1 cursor-pointer font-sans text-sm font-medium" :class="{'line-clamp-none': isClicked, 'line-clamp-4': !isClicked}" @click="onClick">
       {{game.text}}
     </p>
