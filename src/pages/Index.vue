@@ -57,7 +57,7 @@ export default {
       const res = groupBy(edges, (game) => game.releaseDate.year);
       let output = map(res, (value, key) => ({
         key: key,
-        items: sortBy(value, (value) =>  value.releaseDate.month + value.releaseDate.week * 4)
+        items: sortBy(value, (value) =>  value.releaseDate.month * 4 + value.releaseDate.week)
       }));
       output = sortBy(output, (value) => value.key);  
       return output;

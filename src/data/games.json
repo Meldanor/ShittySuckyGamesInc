@@ -1149,5 +1149,507 @@
       "score": 97,
       "ageRating": 18,
       "image": "/images/games/32.png"
+    },
+    {
+      "id": "33",
+      "name": "Leisure Suit Tobi 4: The Missing Hobbies",
+      "type": "successor",
+      "addonFor": 9,
+      "size": "B+",
+      "mainGenre": "Adventure",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Erotik",
+      "subTheme": "Dating",
+      "targetGroup": "Erwachsene",
+      "text": "Armes Topi. Schon wieder keine Frau, schon wieder kein haus, schon wieder keine Freunde. Tobi ist nun wieder allein im Wald und Flur und wird gejagt von der Bingo-Mafia. Doch was tun, wenn man keinen aktiven Körperkontakt betreiben darf? Selbst seine müden, schwieligen Hände wollen nicht mehr (Gliederschmerzen). Da muss wohl nun ein Hobby her. Blöd, wenn man keines hat. Begleite Tobi durch die bunte Welt der Hobbylosen. Vom Lecken (Briefmarken) bis zum Einlochen (Golf) und dem spaßigen Dauernageln (Handwerk) ist alles dabei. Für die ganze Familie.",
+      "engine": "advULF+++++",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 2,
+        "atmosphere": 3,
+        "spielTiefe": 6,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "E-Mix",
+      "releaseDate": {
+        "week": 1,
+        "month": 5,
+        "year": 1984
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/33.png"
+    },
+    {
+      "id": "34",
+      "name": "Skulltima III: Breached Reality - Mind Fractions",
+      "type": "addon",
+      "addonFor": 32,
+      "size": "B+",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF.NEXT SVGA",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 3,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "E-Mix",
+      "releaseDate": {
+        "week": 1,
+        "month": 8,
+        "year": 1984
+      },
+      "score": 90,
+      "ageRating": 18,
+      "image": "/images/games/34.png"
+    },
+    {
+      "id": "35",
+      "name": "Gods of Warsteiner",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "A",
+      "mainGenre": "Action",
+      "subGenre": "Geschicklichkeit",
+      "mainTheme": "Götter",
+      "subTheme": "Dämonen",
+      "targetGroup": "Teenager",
+      "text": "Jens-Gökan war gestern wieder strulle! Am Kioask hamse jetzt neue Pils, das kost weniger, aber ballert wie Zeus dem seine Blitze tun. Doch was Jens nicht wissen kann: leider ist bei der Produktation ein kleines Malheur passiert und es wurden versehentlich Weihwasser und ein Eimer Blut des Satans (glutenfrei) in einer ganz normalen, nachmittäglichen Anbetung in den Gärungstank gegeben.\nJens-Gökan schiebt den fettesten Film seines Lebens. Vielleicht auch den Letzten. Jetzt ist es an Dir, die Menschheit zu retten.",
+      "engine": "ULFreal Engine 2.0",
+      "designPriorities": {
+        "gameplay": 7,
+        "story": 7,
+        "atmosphere": 4,
+        "spielTiefe": 5,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 15,
+        "graphics": 35,
+        "sound": 30,
+        "technic": 20
+      },
+      "publisher": "Eletric Arts",
+      "releaseDate": {
+        "week": 1,
+        "month": 4,
+        "year": 1985
+      },
+      "score": 90,
+      "ageRating": 16,
+      "image": "/images/games/35.png"
+    },
+    {
+      "id": "36",
+      "name": "Gods of Warsteiner - Becks Rising",
+      "type": "addon",
+      "addonFor": 35,
+      "size": "A",
+      "mainGenre": "Action",
+      "subGenre": "Geschicklichkeit",
+      "mainTheme": "Götter",
+      "subTheme": "Dämonen",
+      "targetGroup": "Teenager",
+      "text": "Jens-Gökan war gestern wieder strulle! Am Kioask hamse jetzt neue Pils, das kost weniger, aber ballert wie Zeus dem seine Blitze tun. Doch was Jens nicht wissen kann: leider ist bei der Produktation ein kleines Malheur passiert und es wurden versehentlich Weihwasser und ein Eimer Blut des Satans (glutenfrei) in einer ganz normalen, nachmittäglichen Anbetung in den Gärungstank gegeben.\nJens-Gökan schiebt den fettesten Film seines Lebens. Vielleicht auch den Letzten. Jetzt ist es an Dir, die Menschheit zu retten.",
+      "engine": "ULFreal Engine 2.0",
+      "designPriorities": {
+        "gameplay": 7,
+        "story": 7,
+        "atmosphere": 4,
+        "spielTiefe": 5,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 10,
+        "graphics": 40,
+        "sound": 30,
+        "technic": 20
+      },
+      "publisher": "Eletric Arts",
+      "releaseDate": {
+        "week": 1,
+        "month": 9,
+        "year": 1985
+      },
+      "score": 86,
+      "ageRating": 16,
+      "image": "/images/games/36.png"
+    },
+    {
+      "id": "37",
+      "name": "Skulltima IV: Awakening",
+      "type": "successor",
+      "addonFor": 32,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Erwachsene",
+      "text": "Inzwischen sind zwei Jahre vergangen seit Deinem letzten Besuch in Fritannien. Es ist Wochenende und Du erholst Dich gerade von Deiner Doppelschicht, um Dir Deine miese Einzimmerwohnung leisten zu können.\n Plötzlich... erhellt ein leichter Schimmer Deinen Wäschehaufen.\n Es ist der Smondstein, den Dir Dein alter Freund Lord Kritish geschenkt hat. Er befand sich in Deiner Jeans, die eit zwei Jahren auf ihre Wäsche wartet. Du nimmst ihn in die Hand und ein wohliges Puliseren erinnert Dich an längst vergessene Zeiten. Dir war sofort klar, was zu tun war...\n Keine zwei Minuten später taucht aus dem dünsteren Nichts deines Wohnzimmers ein blaues Smondtor hervor. Verzweiflung lässt dich nicht lange zaudern. Fritannia braucht einen Helden.",
+      "engine": "CD Project ULF.3Dfx DolbyVision",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 2,
+        "month": 2,
+        "year": 1986
+      },
+      "score": 98,
+      "ageRating": 12,
+      "image": "/images/games/37.png"
+    },
+    {
+      "id": "38",
+      "name": "The Snitcher 2: Assistent of Burger Kings",
+      "type": "successor",
+      "addonFor": 25,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Action",
+      "mainTheme": "Monster",
+      "subTheme": "Götter",
+      "targetGroup": "Erwachsene",
+      "text": "Gerhard der Flexer ist wieer da. Leider macht man mit Mädgen und Monster wenig Moneten. Also muss er sich neben dem Flexertum noch einen Zweitjob zulegen. Assistent in der Burgerbude des Königs. Mit seinen übermenschlichen Reflexen kann er Patties wenden, Brötchen ballern und Fritten salzen wie kein zweiter.\n Doch wie immer wirft schon bald ein ernsthafter Konkurrent seine düsteren Schatten über die Lande. McDönalds, zartes Lammfleisch mit ohne Scharf im leckeren Fladenbrot, im großen Menü mit Cola nur 4,99 Kronen. Wer kann da schon widerstehen?\n Doch niemand wusste um Rönald McDönald, das gestörte Maskottchen, das schon bald seine niederen Triebe in den nächtlichen Straßen von Dovigrad ausleben würde.\n Wieder einmal ist der Flexer gefragt.",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 7,
+        "year": 1986
+      },
+      "score": 98,
+      "ageRating": 12,
+      "image": "/images/games/38.png"
+    },
+    {
+      "id": "39",
+      "name": "Skulltima IV: Awakening - Hidden Sins",
+      "type": "addon",
+      "addonFor": 37,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF.3Dfx DolbyVision",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 3,
+        "month": 10,
+        "year": 1986
+      },
+      "score": 92,
+      "ageRating": 12,
+      "image": "/images/games/39.png"
+    },
+    {
+      "id": "40",
+      "name": "Leisure Suit Tobi in the Land of the Darmstadt (Re-Erected)",
+      "type": "remaster",
+      "addonFor": 3,
+      "size": "A",
+      "mainGenre": "Adventure",
+      "subGenre": null,
+      "mainTheme": "Monster",
+      "subTheme": null,
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "advULF++++++",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 5,
+        "spielTiefe": 6,
+        "coreGamer": 5
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 4,
+        "month": 4,
+        "year": 1987
+      },
+      "score": 87,
+      "ageRating": 12,
+      "image": "/images/games/40.png"
+    },
+    {
+      "id": "41",
+      "name": "The Snitcher 2: Assistent of Burger Kings - Speck",
+      "type": "addon",
+      "addonFor": 38,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Action",
+      "mainTheme": "Monster",
+      "subTheme": "Götter",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "Data-West",
+      "releaseDate": {
+        "week": 1,
+        "month": 8,
+        "year": 1987
+      },
+      "score": 92,
+      "ageRating": 12,
+      "image": "/images/games/41.png"
+    },
+    {
+      "id": "42",
+      "name": "Skulltima I: Cracks in Time (ReOpened)",
+      "type": "remaster",
+      "addonFor": 12,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Alle",
+      "text": "Lord Kritisch ruft Dich zu seinen Diensten, oh Abenteurer. Unheil formeirt sich im fernen Fritannien und nur Du kannst alle retten. Du findest Dich in der neuen Welt Sosaria als Lappen wieder. Du kannst nichts, Du bist nichts und niemand kennt Dich. Doch schon bald wirst Du Schwerter schwingend zahlreiche Sammelquests für die lauffaulen Einwohner Fritanniens absolviereen. Denn nur 5 tote Ratten sorgen für den lang ersehnten Weltenfrieden.",
+      "engine": "CD Project ULF.3Dfx DolbyVision",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 4,
+        "atmosphere": 4,
+        "spielTiefe": 4,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 12,
+        "year": 1987
+      },
+      "score": 92,
+      "ageRating": 6,
+      "image": "/images/games/42.png"
+    },
+    {
+      "id": "43",
+      "name": "Skulltima V: The Calling",
+      "type": "successor",
+      "addonFor": 37,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Erwachsene",
+      "text": "Eines Abends liegst Du in Deinem Bett, als Du deutlich die Stimme des CRACKMASTERs vernimmst. Aber wie kann das sein? Er, der twischen den Zeiten lebt, hat Dich noch nie auf der Erde kontaktiert.\n Plötzlich... ein Riss entsteht in der Mitte Deines Raumes. auf der andere Seite: Eine düstere Vision eines Dir doch so bekannten Landes: Fritannien.\n Doch warum ist es nicht Lord Kritish, der Dich kontaktiert? Oder Deine Freunde, der paladin Dumbo oder der meisterhafte Bogenschütz Olli? Warum kein Smondtor?\n Es gibt nur eine Möglichkeit, das herauszufinden... und sie wird Dir nicht gefallen!\n Das neue Skulltima in unglaublich realisitischer 16bit-Grafik und Blast Processing 64fx MegaHype!",
+      "engine": "CD Project ULF 2OOO",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 7,
+        "year": 1988
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/43.png"
+    },
+    {
+      "id": "44",
+      "name": "Erik Bricht Ein",
+      "type": "successor",
+      "addonFor": 30,
+      "size": "A",
+      "mainGenre": "Adventure",
+      "subGenre": "Denkspiel",
+      "mainTheme": "Krankenhaus",
+      "subTheme": "Horror",
+      "targetGroup": "Erwachsene",
+      "text": "Erik hat was vergessen. Nun muss er wieder zurück...\n ...zurück in die Anstalt!",
+      "engine": "advULF 2OOO",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 1,
+        "atmosphere": 3,
+        "spielTiefe": 6,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 11,
+        "year": 1988
+      },
+      "score": 90,
+      "ageRating": 16,
+      "image": "/images/games/44.png"
+    },
+    {
+      "id": "45",
+      "name": "Leisure Suit Tobi 5: Tokyo Tentakel Trouble",
+      "type": "successor",
+      "addonFor": 33,
+      "size": "A",
+      "mainGenre": "Adventure",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Dating",
+      "subTheme": "Komödie",
+      "targetGroup": "Erwachsene",
+      "text": "Das gibt es doch gar nicht. Eines Morgens schaut Tobi in seine Post und stellt fest, dass er eine Reise gewonnen hat. Ja Juppheidi und holla die Waldfee noch eins. Sosfort packt einen drittel Koffer und zwei Handtaschen mit Knodomen und Haargel (auch als Gleitmittel verwendbar), denn es geht ins malerische Toky. Dort, so hat der kalkulierende Knabe vernommen, gibt es so manch exotische Ferkelei, die er noch nicht gemeistert hat.\n Begleite Tobi auf eine Reise ins Land der aufgehenden Blusen, verführerischen Geishas und fragwürdigen Mangas mit zweifelhaften Inhalten. Essen, Erotik, Eyakuzation. Eines von diesen wird Tobifinden. Doch welches wird es sein? Du entscheidest über das Schicksal des liebenswerten Lustmolches, der seit 5 Episoden noch immer den selben Anzug trägt.",
+      "engine": "advULF 2001",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 0,
+        "atmosphere": 2,
+        "spielTiefe": 6,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 6,
+        "year": 1989
+      },
+      "score": 91,
+      "ageRating": 18,
+      "image": "/images/games/45.png"
+    },
+    {
+      "id": "46",
+      "name": "Skulltima V: The Calling - Dark Tides",
+      "type": "addon",
+      "addonFor": 43,
+      "size": "A",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF 2OOO",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 9,
+        "year": 1989
+      },
+      "score": 92,
+      "ageRating": 18,
+      "image": "/images/games/46.png"
     }
   ]
