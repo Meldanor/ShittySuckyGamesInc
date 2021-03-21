@@ -41,7 +41,9 @@ query {
 
 <script>
 import Game from '../components/Game.vue'
-import {map, groupBy, sortBy} from 'lodash';
+import map from 'lodash/map';
+import groupBy from 'lodash/groupBy';
+import sortBy from 'lodash/sortBy';
 
 export default {
   components: { Game },
