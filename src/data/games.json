@@ -684,42 +684,6 @@
       "image": "/images/games/19.png"
     },
     {
-      "id": "20",
-      "name": "Peter Pilz 3: Golden Shower über Niedersachsen",
-      "type": "addon",
-      "addonFor": 16,
-      "size": "B",
-      "mainGenre": "Denkspiel",
-      "subGenre": "Adventure",
-      "mainTheme": "Pilze",
-      "subTheme": "Horror",
-      "targetGroup": "Alle",
-      "text": "Flip, der Fröhliche Ferkelfrosch lädt Peter Pilz spontan zu einer Lustreise im Peiner Landkreis ein. Was beide nicht wissen: Peine ist die Hochpurg des Öffentlichen Urinats. Täglich treffen sich Peiner Passanten zum gemeinsamen absolvierten Abstrullern. Doch, oh weh - Peter hat ein Problem. Nierensteine! Erlebe die bunte Welt von Norbert Niere und seinen süßen Steinchen, mit denen Du gemeinsam Dame spielen und viele Abenteuer erleben kannst! Happy Pipi.",
-      "engine": "ULF-THINX++",
-      "designPriorities": {
-        "gameplay": 4,
-        "story": 4,
-        "atmosphere": 5,
-        "spielTiefe": 5,
-        "coreGamer": 5
-      },
-      "workPriorities": {
-        "gameplay": 50,
-        "graphics": 10,
-        "sound": 10,
-        "technic": 30
-      },
-      "publisher": "Data-West",
-      "releaseDate": {
-        "week": 2,
-        "month": 4,
-        "year": 1980
-      },
-      "score": 77,
-      "ageRating": 6,
-      "image": "/images/games/20.png"
-    },
-    {
       "id": "21",
       "name": "Skulltima II: Cracked Dimensions",
       "type": "successor",
@@ -1651,5 +1615,653 @@
       "score": 92,
       "ageRating": 18,
       "image": "/images/games/46.png"
+    },
+    {
+      "id": "47",
+      "name": "Shitty Skielines",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "A",
+      "mainGenre": "Aufbauspiel",
+      "subGenre": "Wirtschaftssimulation",
+      "mainTheme": "Städte",
+      "subTheme": "Wirtschaft",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "ULFstruction",
+      "designPriorities": {
+        "gameplay": 1,
+        "story": 9,
+        "atmosphere": 7,
+        "spielTiefe": 4,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 15,
+        "sound": 10,
+        "technic": 35
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 3,
+        "month": 5,
+        "year": 1990
+      },
+      "score": 85,
+      "ageRating": 6,
+      "image": "/images/games/47.png"
+    },
+    {
+      "id": "48",
+      "name": "LST5: Toky Tentakel Trouble - Flutschfinger",
+      "type": "addon",
+      "addonFor": 45,
+      "size": "A",
+      "mainGenre": "Adventure",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Dating",
+      "subTheme": "Komödie",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "advULF 2001",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 0,
+        "atmosphere": 2,
+        "spielTiefe": 6,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 9,
+        "year": 1990
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/48.png"
+    },
+    {
+      "id": "49",
+      "name": "Ulfenstein 3D (NICHT ERSCHIENEN)",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "AA",
+      "mainGenre": "Adventure",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Dating",
+      "subTheme": "Komödie",
+      "targetGroup": "Erwachsene",
+      "text": "Blijesznik Blaszkowiczkowzkowicz wurde von den Achselmächten festgesetzt. Gefangen im finsteren SChloss Ulfenstein schmachtet er dem Tageslicht entgegen, die Schreie seiner Mitgefangenen Tag und nacht in den Ohren. Eines Tages, als EISENHANS ihm wieder seine spärliche Ration Staub serviert, gelingt es Blijesznik sich mithilfe eines gehärteten Schnürsenkels zu befreien. \n Die gedämpften SChreie des EISENHANS verhallen ungehört in den weiten Fluren der Institution. Bewaffnet mit deinem Schnürsenkel musst Du Dir Deinen Weg durch zahlreiche, atemberaubend realisitische Level bahnen. Töte, stehle, überleben. \n In einem einzigen 3D-Fest, untermalt vom prächtig orchestralen Soundtrack metztelst Du Dir den Weg in die Freiheit. Besiege die Schnazis und ihre finsteren Schergen HELGAMATIK und den DOKTOR.",
+      "engine": "advULF 2001",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 0,
+        "atmosphere": 2,
+        "spielTiefe": 6,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 9,
+        "year": 1990
+      },
+      "score": 97,
+      "ageRating": 18,
+      "image": "/images/games/49.png"
+    },
+    {
+      "id": "50",
+      "name": "Skulltima V, Part II: REvolution",
+      "type": "successor",
+      "addonFor": 43,
+      "size": "AA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Dungeons",
+      "targetGroup": "Erwachsene",
+      "text": "Noch immer steckst Du im fernen Fritannien fest. Alles, woran die Menschen einst glaubten, zu Asche zerfallen. Mit Hilfe Deiner Begleiter hast Du die wahre ursache dieser schleichenden Pest der Gesellschaft erkant: Die Schattenwacht.\n Ein geheimer Kult - betrieben von den Machtgierigen, die die guten Zeiten hervorgebracht hat - hält Fritannien und auch Lord Kritish nach einem Putsch unter blutiger Tyrannei. \n Reise durch unglaublich detailverliebte 3D-Landschaften des fernen Fritanniens und erlebe erstmal Einwohner und Städte aus der Ich-Perspektive. Mit 300 Stunden Dialog auf 80 Disketten!.",
+      "engine": "CD Project ULF: VOODOO+",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 8,
+        "year": 1991
+      },
+      "score": 97,
+      "ageRating": 12,
+      "image": "/images/games/50.png"
+    },
+    {
+      "id": "51",
+      "name": "Commander Krampf",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "A",
+      "mainGenre": "Platformer",
+      "subGenre": "Action",
+      "mainTheme": "Weltall",
+      "subTheme": "Aliens",
+      "targetGroup": "Teenager",
+      "text": "Der kleine Billy ist 9 Jahre alt und muss Hausaufgaben machen. Aber er hat keine Lust und würde lieber - schon weder - das Universum retten. Mit seiner selbst geklebten Rakete im lauschigen Garten des Einfamilienhauses seiner Eltern macht er sich auf eine spannende Reise zwischen die Sterne. \n Kämpfe in diesem heiteren, überhaupt nicht von Super Mario inspierten, Sidescroller-Plattformer-Jump'n'Runner gegen Vlorps, Blorps, Veedls und Schnurpels. Ist eigentlich ganz gut.",
+      "engine": "Jump'n'ULF : VOODOO",
+      "designPriorities": {
+        "gameplay": 7,
+        "story": 4,
+        "atmosphere": 4,
+        "spielTiefe": 8,
+        "coreGamer": 7
+      },
+      "workPriorities": {
+        "gameplay": 25,
+        "graphics": 25,
+        "sound": 25,
+        "technic": 25
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 3,
+        "month": 7,
+        "year": 1992
+      },
+      "score": 89,
+      "ageRating": 6,
+      "image": "/images/games/51.png"
+    },
+    {
+      "id": "52",
+      "name": "Skulltima V, Book II: REvolution - Scorched World",
+      "type": "addon",
+      "addonFor": 50,
+      "size": "AA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Dungeons",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "CD Project ULF: VOODOO+",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 12,
+        "year": 1992
+      },
+      "score": 91,
+      "ageRating": 12,
+      "image": "/images/games/52.png"
+    },
+    {
+      "id": "53",
+      "name": "Worlds of Skulltima",
+      "type": "mmo",
+      "addonFor": null,
+      "size": "AAA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Erwachsene",
+      "text": "In einer Welt aus Asche treen die Überlebenden hervor, um eine neue Zivisation aufzubauen. Fremde, Freunde, jeder muss sich auf den anderen verlassen können. Die Welt, wie wir sie kannten, exisitert nicht mehr.\n Gefangen in einem Splitter der Realität ist jeder wichtig. Ob Reisender, ob Farmer, ob Händler oder Bäcker: Dir stehen alle Möglichkeitne offen - und jede helfende Hand wird gebraucht. Errichte aus den Ruinen der alten Welt eine neue Heimat, eine neue Hoffnung.\n Spiele mit Milliarden anderer Spieler auf einer sich beständig ändernden Welt. Wähle deine Rasse und dein GEschlecht und folge Deiner Berufung dank eines einzigartigen, dynamischen Skillsystems.\n Jetzt im Handel. Jetzt im Wandel. Für nur 12,99DM im Monat!",
+      "engine": "MMULF",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 11,
+        "year": 1993
+      },
+      "score": 97,
+      "ageRating": 16,
+      "image": "/images/games/53.png"
+    },
+    {
+      "id": "54",
+      "name": "Worlds of Skulltima: Dwellers of the Deep",
+      "type": "addon",
+      "addonFor": 53,
+      "size": "AAA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Dungeons",
+      "targetGroup": "Erwachsene",
+      "text": "Geboren aus der Hitze vergangener Schlachten klaffen brechen überall im Land die zahnlosen Abgründe in eine bis dato unbekannte Unterwelt auf.\n Neue Monster, neue Ebenen, neue Herausforderungen. Werdet Ihr den Maelstrom überleben?",
+      "engine": "MMULF",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 7,
+        "year": 1994
+      },
+      "score": 91,
+      "ageRating": 16,
+      "image": "/images/games/54.png"
+    },
+    {
+      "id": "55",
+      "name": "Ulfenstein 3D",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "AA",
+      "mainGenre": "First-Person-Shotter",
+      "subGenre": "Action",
+      "mainTheme": "Weltkriege",
+      "subTheme": "Militär",
+      "targetGroup": "Erwachsene",
+      "text": "Blijesznik Blaszkowiczkowzkowicz wurde von den Achselmächten festgesetzt. Gefangen im finsteren SChloss Ulfenstein schmachtet er dem Tageslicht entgegen, die Schreie seiner Mitgefangenen Tag und nacht in den Ohren. Eines Tages, als EISENHANS ihm wieder seine spärliche Ration Staub serviert, gelingt es Blijesznik sich mithilfe eines gehärteten Schnürsenkels zu befreien. \n Die gedämpften SChreie des EISENHANS verhallen ungehört in den weiten Fluren der Institution. Bewaffnet mit deinem Schnürsenkel musst Du Dir Deinen Weg durch zahlreiche, atemberaubend realisitische Level bahnen. Töte, stehle, überleben. \n In einem einzigen 3D-Fest, untermalt vom prächtig orchestralen Soundtrack metztelst Du Dir den Weg in die Freiheit. Besiege die Schnazis und ihre finsteren Schergen HELGAMATIK und den DOKTOR.",
+      "engine": "ULFps",
+      "designPriorities": {
+        "gameplay": 7,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 7,
+        "coreGamer": 6
+      },
+      "workPriorities": {
+        "gameplay": 25,
+        "graphics": 35,
+        "sound": 20,
+        "technic": 20
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 7,
+        "year": 1995
+      },
+      "score": 86,
+      "ageRating": 12,
+      "image": "/images/games/55.png"
+    },
+    {
+      "id": "56",
+      "name": "Worlds of Skulltima: Black & White",
+      "type": "addon",
+      "addonFor": 53,
+      "size": "AAA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Götter",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "MMULF",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 3,
+        "month": 10,
+        "year": 1995
+      },
+      "score": 91,
+      "ageRating": 16,
+      "image": "/images/games/56.png"
+    },
+    {
+      "id": "57",
+      "name": "The Snitcher 3: Rise of Plauze",
+      "type": "successor",
+      "addonFor": 38,
+      "size": "AA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Action",
+      "mainTheme": "Monster",
+      "subTheme": "Vampire",
+      "targetGroup": "Erwachsene",
+      "text": "Lang sind sie vorbei, die gloriosen Zeiten von Gerhard, dem Flexer von Dovigrad. Die Jahre gingen genauso ins Land wie üppig bebuste Mädge. Nun sitzt Gerhadrd auf seinem Landgut und schaukelt sie die haarigen Monstertrophäen. Das einzige, was noch ledriger als sein geliebter Sattel ist, ist inzwischen nur noch sein Gesicht.\n Die schmale Rente des Assistententums reicht gerade mal für Kabelfernsehen und Fritten. Doch die Ruhe wärt nicht lang. Schon bald dräut Unheil über dem Anwesen des Siechenden. Eines Nachts wird Gerhard von seinem unsterblichen Freund Rehkitz besucht, der ihm von schier unglaublichen Dingen erzählt: \n \"Gerhard!\", so spricht er, \"Es gehen schier unglaubliche Dinge vor sich!\".\n Nach einer Stunde Arbeit hat sich Gerhard aus dem Sessel gelötet...der Flexer ist wieder da!",
+      "engine": "CD Projekt ULF real3D",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 2,
+        "year": 1997
+      },
+      "score": 95,
+      "ageRating": 16,
+      "image": "/images/games/57.png"
+    },
+    {
+      "id": "58",
+      "name": "Worlds of Skulltima: Hearth & Home",
+      "type": "addon",
+      "addonFor": 53,
+      "size": "AAA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Fantasie",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "MMULF",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 11,
+        "year": 1997
+      },
+      "score": 89,
+      "ageRating": 16,
+      "image": "/images/games/58.png"
+    },
+    {
+      "id": "59",
+      "name": "Tobi Tanzt: Wal-kürenritt",
+      "type": "successor",
+      "addonFor": 18,
+      "size": "A",
+      "mainGenre": "Geschicklichkeit",
+      "subGenre": "Action",
+      "mainTheme": "Tanzen",
+      "subTheme": "Singen",
+      "targetGroup": "Teenager",
+      "text": "Ice Ice Tobi... Ice Ice Tobi to go...\n Er ist wieder da! Fast zehn Jahre nach seinen kollosallen Korpulationskreuzzügen über die Dancefloors er80er kommt hier die neue Edition: Techno, Tussis, tollen Typen! Baller Dir fett einen weg mit den geilsten, offiziellen Soundtracks der 90er: DJ Popo, Michael Jackensohn, Leckstreet Boys, Take FETT, Shice Girls und natürlich die Schmusehits von Spritney Biers!\n Lass die Massen rotieren und erzeuge Deine eigene Gravitationsfläche. Arme und Beine bilden eine rotierende Scheibe, wenn Du Deine abgespacten Megamoves auf dem Tanz-Flur abfeuerst. BÄM! \n Powered by MTV",
+      "engine": "ULF sKILLZ real3D",
+      "designPriorities": {
+        "gameplay": 1,
+        "story": 8,
+        "atmosphere": 8,
+        "spielTiefe": 8,
+        "coreGamer": 8
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 10,
+        "sound": 10,
+        "technic": 40
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 9,
+        "year": 1998
+      },
+      "score": 94,
+      "ageRating": 12,
+      "image": "/images/games/59.png"
+    },
+    {
+      "id": "60",
+      "name": "Ulfenstein 2: Speer der Zerberstung",
+      "type": "baseGame",
+      "addonFor": null,
+      "size": "AA",
+      "mainGenre": "First-Person-Shotter",
+      "subGenre": "Action",
+      "mainTheme": "Weltkriege",
+      "subTheme": "Militär",
+      "targetGroup": "Erwachsene",
+      "text": "Unsere Agenten haben gemeldet, dass DOKTOR ADERLASS den Anschlag von Blijesznik Blaszkowiczkowzkowicz überlebte, indem er sein Gehirn in einen 486er Supercomputer übertragen hat. mit so viel Rechenpower ausgestatt kann er nun ALLES werden.\n Doch SCHMADOLF SCHITLER ist nicht amüsiert: Der zuckende Zauselbart will den DOKTOR eliminieren lassen. Leider muss er gerade noch ein Buch anzünden, also kommen wir ihm zuvor.\n Aber vorsicht: Weitere Feinde unter der GEDANKENKONTROLLE des DOKTORS lauern auf dem Weg: Die Schöne SIEGLINDE mit ihrem verführerischen 3D-Sprite, Kraftmonster GEWALT VON BRAUN, hochgezüchteter Olympionik des Fritten Reiches und viele mehr.",
+      "engine": "ULFps",
+      "designPriorities": {
+        "gameplay": 8,
+        "story": 2,
+        "atmosphere": 3,
+        "spielTiefe": 9,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 10,
+        "graphics": 50,
+        "sound": 20,
+        "technic": 20
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 1,
+        "month": 4,
+        "year": 1999
+      },
+      "score": 88,
+      "ageRating": 12,
+      "image": "/images/games/60.png"
+    },
+    {
+      "id": "61",
+      "name": "Worlds of Skulltima: The Final Chapter",
+      "type": "addon",
+      "addonFor": 53,
+      "size": "AAA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Zauberer",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "MMULF",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 4,
+        "month": 7,
+        "year": 1999
+      },
+      "score": 88,
+      "ageRating": 16,
+      "image": "/images/games/61.png"
+    },
+    {
+      "id": "62",
+      "name": "Leisure Suit Tobi 6: Orientalische Osmanen Orgie",
+      "type": "successor",
+      "addonFor": 45,
+      "size": "A",
+      "mainGenre": "Adventure",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Dating",
+      "subTheme": "Komödie",
+      "targetGroup": "Erwachsene",
+      "text": "Gerade noch reibt er seine übbigen Lustbrüste mit Doktor Schnallges Bräunungselixier ein, da juckt es im seidenen Beinkleid. Es ist sein alter Freund, Peter Pilz im Pimmelschwamm. Er ist inzwischen Großvisir von Rüsselsheim, dem osmanischen Hosenreich,w elches sich im lauschig-schwülen-Frontalbereich seines noch immer stylishen Anzuges gebildet hat.\n Peter plagen Potenzprobleme, verursacht durch menschgemachten Klimawandel in der Hose. Nur Tobi kann helfen, diese zu besiegen. Mit dem schwadrunalischen Schrumpfstrahler bringt sich auf die Körpergröße von Schmalf Ritz und begibt sich auf eine abenteuerliche, exotische Reise durch die weiten Wüsten seines gut ausgebeulten Beinkleides.",
+      "engine": "advULF 2K",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 0,
+        "atmosphere": 2,
+        "spielTiefe": 6,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 5,
+        "year": 2000
+      },
+      "score": 92,
+      "ageRating": 16,
+      "image": "/images/games/62.png"
+    },
+    {
+      "id": "63",
+      "name": "Worlds of Skulltima: End of Worlds",
+      "type": "addon",
+      "addonFor": 53,
+      "size": "AAA",
+      "mainGenre": "Rollenspiel",
+      "subGenre": "Adventure",
+      "mainTheme": "Monster",
+      "subTheme": "Apokalypse",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "MMULF",
+      "designPriorities": {
+        "gameplay": 5,
+        "story": 2,
+        "atmosphere": 1,
+        "spielTiefe": 2,
+        "coreGamer": 3
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 9,
+        "year": 2000
+      },
+      "score": 88,
+      "ageRating": 16,
+      "image": "/images/games/63.png"
+    },
+    {
+      "id": "64",
+      "name": "Leisure Suit Tobi 6 bürstet die Baklava Brüder",
+      "type": "addon",
+      "addonFor": 62,
+      "size": "A",
+      "mainGenre": "Adventure",
+      "subGenre": "Rollenspiel",
+      "mainTheme": "Dating",
+      "subTheme": "Komödie",
+      "targetGroup": "Erwachsene",
+      "text": "Keiner :(",
+      "engine": "advULF 2K",
+      "designPriorities": {
+        "gameplay": 4,
+        "story": 0,
+        "atmosphere": 2,
+        "spielTiefe": 6,
+        "coreGamer": 4
+      },
+      "workPriorities": {
+        "gameplay": 40,
+        "graphics": 30,
+        "sound": 15,
+        "technic": 15
+      },
+      "publisher": "self",
+      "releaseDate": {
+        "week": 2,
+        "month": 4,
+        "year": 2001
+      },
+      "score": 88,
+      "ageRating": 16,
+      "image": "/images/games/64.png"
     }
   ]
